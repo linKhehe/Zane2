@@ -1,0 +1,3 @@
+Wand
+scikit-image
+PILLOW
